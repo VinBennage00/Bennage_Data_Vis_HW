@@ -1,43 +1,127 @@
-﻿School,all_fac_2020,full_2020,assoc_2020,assist_2020,Type
-Amherst,"115,573","155,833","110,986","93,329",Real
-Bates,"101,539","134,487","105,217","85,862",Real
-Bowdoin,"114,601","146,857","113,680","91,352",Real
-Carleton,"117,620","141,305","107,210","88,514",Real
-Claremont McKenna,"138,183","176,098","128,042","108,670",Real
-Colby,"111,341","145,971","105,841","88,084",Real
-Colgate,"109,417","151,654","108,479","92,464",Real
-Davidson,"102,411","134,729","98,243","79,877",Real
-Furman,"87,947","102,723","82,983","70,364",Real
-Grinnell,"109,613","139,558","105,908","87,727",Real
-Hamilton,"107,611","142,149","108,150","88,383",Real
-Haverford,"100,983","131,176","101,031","84,959",Real
-Macalester,"98,937","126,583","95,133","79,775",Real
-Middlebury,"112,177","140,387","104,368","90,234",Real
-Oberlin,"97,483","122,742","94,994","72,109",Real
-Pomona,"126,433","160,491","120,016","98,629",Real
-Swarthmore,"123,619","156,329","111,489","87,690",Real
-Vassar,"111,749","142,788","111,493","89,258",Real
-Washington and Lee,"118,672","143,853","115,712","95,154",Real
-Wesleyan,"111,714","158,455","111,008","91,207",Real
-Williams,"122,391","149,903","106,040","93,837",Real
-Amherst,"125,628","142,275","101,330","85,859",COLA
-Bates,"115,652","153,181","119,842","85,862",COLA
-Bowdoin,"107,266","137,458","106,405","85,506",COLA
-Carleton,"114,797","137,914","104,637","86,389",COLA
-Claremont McKenna,"47,397","60,402","43,918","37,274",COLA
-Colby,"135,057","177,063","128,386","106,846",COLA
-Colgate,"126,268","175,008","125,185","106,704",COLA
-Davidson,"85,206","112,095","81,738","66,458",COLA
-Furman,"97,885","114,331","92,360","78,315",COLA
-Grinnell,"132,413","168,586","127,936","105,974",COLA
-Hamilton,"133,976","176,976","134,647","110,037",COLA
-Haverford,"29,891","38,828","29,905","25,148",COLA
-Macalester,"100,322","128,355","96,465","80,892",COLA
-Middlebury,"115,318","144,318","107,290","92,761",COLA
-Oberlin,"119,806","150,850","116,748","88,623",COLA
-Pomona,"43,367","55,048","41,166","33,830",COLA
-Swarthmore,"108,290","136,944","97,665","76,816",COLA
-Vassar,"108,956","139,219","108,706","87,026",COLA
-Washington and Lee,"135,642","164,424","132,259","108,761",COLA
-Wesleyan,"108,809","154,335","108,121","88,836",COLA
-Williams,"121,289","148,554","105,085","92,993",COLA
+School,Type,Rank,Salary
+Amherst,Real,Full,155832.57
+Bates,Real,Full,134487.13
+Bowdoin,Real,Full,146856.94
+Carleton,Real,Full,141305.4
+Claremont McKenna,Real,Full,176097.86
+Colby,Real,Full,145970.84
+Colgate,Real,Full,151653.61
+Davidson,Real,Full,134729.29
+Furman,Real,Full,102722.95
+Grinnell,Real,Full,139557.74
+Hamilton,Real,Full,142149.28
+Haverford,Real,Full,131175.59
+Macalester,Real,Full,126583.01
+Middlebury,Real,Full,140387.28
+Oberlin,Real,Full,122742.26
+Pomona,Real,Full,160490.68
+Swarthmore,Real,Full,156328.64
+Vassar,Real,Full,142788.3
+Washington and Lee,Real,Full,143853.24
+Wesleyan,Real,Full,158454.83
+Williams,Real,Full,149902.98
+Amherst,COLA,Full,142275.13641
+Bates,COLA,Full,153180.84107000002
+Bowdoin,COLA,Full,137458.09584
+Carleton,COLA,Full,137914.0704
+Claremont McKenna,COLA,Full,60401.565980000014
+Colby,COLA,Full,177062.62892
+Colgate,COLA,Full,175008.26593999998
+Davidson,COLA,Full,112094.76928000001
+Furman,COLA,Full,114330.64335
+Grinnell,COLA,Full,168585.74991999997
+Hamilton,COLA,Full,176975.8536
+Haverford,COLA,Full,38827.974639999986
+Macalester,COLA,Full,128355.17214
+Middlebury,COLA,Full,144318.12384
+Oberlin,COLA,Full,150850.23754
+Pomona,COLA,Full,55048.30324000002
+Swarthmore,COLA,Full,136943.88864
+Vassar,COLA,Full,139218.5925
+Washington and Lee,COLA,Full,164424.25332
+Wesleyan,COLA,Full,154335.00441999998
+Williams,COLA,Full,148553.85318
+Amherst,Real,Assoc,110986.29
+Bates,Real,Assoc,105216.93
+Bowdoin,Real,Assoc,113680.19
+Carleton,Real,Assoc,107210.25
+Claremont McKenna,Real,Assoc,128041.61
+Colby,Real,Assoc,105841.43
+Colgate,Real,Assoc,108479.27
+Davidson,Real,Assoc,98242.92
+Furman,Real,Assoc,82983.13
+Grinnell,Real,Assoc,105907.67
+Hamilton,Real,Assoc,108150.0
+Haverford,Real,Assoc,101031.32
+Macalester,Real,Assoc,95132.95
+Middlebury,Real,Assoc,104368.11
+Oberlin,Real,Assoc,94994.3
+Pomona,Real,Assoc,120016.47
+Swarthmore,Real,Assoc,111489.46
+Vassar,Real,Assoc,111493.42
+Washington and Lee,Real,Assoc,115712.37
+Wesleyan,Real,Assoc,111007.56
+Williams,Real,Assoc,106039.74
+Amherst,COLA,Assoc,101330.48276999999
+Bates,COLA,Assoc,119842.08327
+Bowdoin,COLA,Assoc,106404.65784
+Carleton,COLA,Assoc,104637.204
+Claremont McKenna,COLA,Assoc,43918.27223000002
+Colby,COLA,Assoc,128385.65458999999
+Colgate,COLA,Assoc,125185.07758000001
+Davidson,COLA,Assoc,81738.10944
+Furman,COLA,Assoc,92360.22369
+Grinnell,COLA,Assoc,127936.46536
+Hamilton,COLA,Assoc,134646.75
+Haverford,COLA,Assoc,29905.270719999986
+Macalester,COLA,Assoc,96464.8113
+Middlebury,COLA,Assoc,107290.41708
+Oberlin,COLA,Assoc,116747.99470000001
+Pomona,COLA,Assoc,41165.64921
+Swarthmore,COLA,Assoc,97664.76696
+Vassar,COLA,Assoc,108706.0845
+Washington and Lee,COLA,Assoc,132259.23891
+Wesleyan,COLA,Assoc,108121.36344
+Williams,COLA,Assoc,105085.38234
+Amherst,Real,Assist,93328.94
+Bates,Real,Assist,85861.9
+Bowdoin,Real,Assist,91352.21
+Carleton,Real,Assist,88513.61
+Claremont McKenna,Real,Assist,108669.75
+Colby,Real,Assist,88083.89
+Colgate,Real,Assist,92464.38
+Davidson,Real,Assist,79876.9
+Furman,Real,Assist,70363.92
+Grinnell,Real,Assist,87727.22
+Hamilton,Real,Assist,88382.78
+Haverford,Real,Assist,84959.35
+Macalester,Real,Assist,79774.8
+Middlebury,Real,Assist,90234.19
+Oberlin,Real,Assist,72109.46
+Pomona,Real,Assist,98629.45
+Swarthmore,Real,Assist,87689.87
+Vassar,Real,Assist,89257.63
+Washington and Lee,Real,Assist,95154.32
+Wesleyan,Real,Assist,91207.26
+Williams,Real,Assist,93837.29
+Amherst,COLA,Assist,85859.1904323827
+Bates,COLA,Assist,85861.9
+Bowdoin,COLA,Assist,85505.66856
+Carleton,COLA,Assist,86389.28336
+Claremont McKenna,COLA,Assist,37273.724250000014
+Colby,COLA,Assist,106845.75857
+Colgate,COLA,Assist,106703.89452000002
+Davidson,COLA,Assist,66457.5808
+Furman,COLA,Assist,78315.04295999999
+Grinnell,COLA,Assist,105974.48176
+Hamilton,COLA,Assist,110036.56109999999
+Haverford,COLA,Assist,25147.967599999996
+Macalester,COLA,Assist,80891.6472
+Middlebury,COLA,Assist,92760.74732
+Oberlin,COLA,Assist,88622.52634000001
+Pomona,COLA,Assist,33829.901350000015
+Swarthmore,COLA,Assist,76816.32611999998
+Vassar,COLA,Assist,87026.18925000001
+Washington and Lee,COLA,Assist,108761.38776000001
+Wesleyan,COLA,Assist,88835.87124
+Williams,COLA,Assist,92992.75438999999
