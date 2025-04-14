@@ -1,0 +1,102 @@
+Date,Field,Crop,Amount_lbs,Wholesale_price_lb,Market_price_lb,Market_Total
+2024-02-14,HT2,Swiss Chard,5.6,3.2,4.0,22.4
+2024-02-20,HT2,Lettuce,4.6,2.87,5.0,23.0
+2024-02-21,HT2,Swiss Chard,5.2,,,20.8
+2024-02-22,HT2,Lettuce,4.0,,,20.0
+2024-02-26,HT2,Swiss Chard,5.02,,,20.08
+2024-02-26,,Microgreens,1.1,30.0,16.0,17.6
+2024-02-27,HT2,Lettuce,3.5,,,17.5
+2024-03-12,HT 2,Swiss Chard,12.5,,4.0,50.0
+2024-03-13,HT 2,Lettuce,2.6,,5.0,13.0
+2024-03-14,HT 2,Lettuce,4.3,,,21.5
+2024-03-20,HT 2,Lettuce,4.5,,,22.5
+2024-03-20,HT 2,Swiss Chard,10.2,,,40.8
+2024-03-21,HT 2,Lettuce,3.0,,,15.0
+2024-03-22,HT 2,Swiss Chard,13.3,,,53.2
+2024-03-26,HT 2,Swiss Chard,19.0,,,76.0
+2024-03-26,HT 2,Lettuce,8.7,,,43.5
+2024-04-01,HT 2,Swiss Chard,23.0,,4.0,92.0
+2024-04-02,HT 2,Lettuce,7.9,,5.0,39.5
+2024-04-02,HT 2,Swiss Chard,3.5,,,14.0
+2024-04-09,HT 2,Lettuce,6.5,,,32.5
+2024-04-09,HT 2,Swiss Chard,13.0,,,52.0
+2024-04-15,HT 2,Lettuce,15.3,,,76.5
+2024-04-16,HT 2,Swiss Chard,28.9,,,115.6
+2024-04-17,HT 2,Swiss Chard,23.2,,,92.8
+2024-04-17,HT 2,Lettuce,41.6,,,208.0
+2024-04-26,HT 1,Lettuce,14.2,,,71.0
+2024-04-29,HT 2,Swiss Chard,35.4,,,141.6
+2024-04-30,HT 1,Lettuce,5.0,,,25.0
+2024-05-03,HT 1,Lettuce,6.1,,5.0,
+2024-07-01,F5,Summer Squash,5.6,0.75,3.0,16.8
+2024-07-03,F5,Summer Squash,5.6,,,16.8
+2024-07-06,F5,Summer Squash,10.3,,,30.9
+2024-07-08,F5,Summer Squash,18.2,,,54.6
+2024-07-10,F5,Summer Squash,26.5,,,79.5
+2024-07-12,F5,Summer Squash,90.6,,,271.8
+2024-07-15,F5,Summer Squash,105.5,,,316.5
+2024-07-17,F5,Summer Squash,77.8,,,233.4
+2024-07-19,F5,Summer Squash,56.1,,,168.3
+2024-07-23,F5,Summer Squash,110.2,,,330.6
+2024-07-25,F5,Summer Squash,74.5,,,223.5
+2024-07-29,F5,Summer Squash,172.4,,,517.2
+2024-07-30,F5,Watermelons,35.0,4.0,4.0,140.0
+2024-08-01,F5,Watermelons,5.0,,4.0,20.0
+2024-08-01,F5,Winter Squash,6.8,1.34,2.0,13.6
+2024-08-01,F5,Winter Squash,15.4,,,30.8
+2024-08-01,F5,Summer Squash,30.8,,3.0,92.4
+2024-08-01,F5,Pumpkins,9.0,0.75,3.0,27.0
+2024-08-03,F5,Pumpkins,48.0,,,144.0
+2024-08-03,F5,Winter Squash,2.0,,,4.0
+2024-08-05,F5,Winter Squash,230.5,,,461.0
+2024-08-07,F5,Winter Squash,111.3,,,222.6
+2024-08-07,F5,Watermelons,25.0,,,100.0
+2024-08-12,F5,Winter Squash,110.5,,,221.0
+2024-08-12,F5,Watermelons,55.0,,,220.0
+2024-08-13,HT 1,Cherry Tomatoes,9.4,1.67,4.5,42.3
+2024-08-15,HT 1,Cherry Tomatoes,5.6,,,25.2
+2024-08-15,F5,Winter Squash,96.0,,,192.0
+2024-08-26,F5,Winter Squash,207.12,,,414.24
+2024-08-29,HT 1,Cherry Tomatoes,26.7,,,120.15
+2024-08-30,F6,Okra,0.5,2.0,5.0,2.5
+2024-09-02,HT 1,Cherry Tomatoes,71.9,,4.5,323.55
+2024-09-04,F6,Basil,2.6,11.5,64.0,166.4
+2024-09-09,HT 1,Slicing Tomatoes,48.1,1.16,3.0,144.3
+2024-09-10,F6,Basil,3.6,,,230.4
+2024-09-10,HT 1,Cherry Tomatoes,17.7,,,79.65
+2024-09-10,HT 1 & 2,Slicing Tomatoes,8.3,,,24.9
+2024-09-12,HT 1,Cherry Tomatoes,15.0,,,67.5
+2024-09-17,HT 1,Cherry Tomatoes,17.3,,,77.85
+2024-09-17,HT 1,Slicing Tomatoes,17.0,,,51.0
+2024-09-17,HT 2,Slicing Tomatoes,39.2,,,117.6
+2024-09-17,F6,Basil,5.6,,,358.4
+2024-09-19,HT 1,Cherry Tomatoes,9.6,,,43.2
+2024-09-19,HT 1,Slicing Tomatoes,9.2,,,27.6
+2024-09-19,HT 2,Slicing Tomatoes,6.4,,,19.2
+2024-09-24,HT 2,Slicing Tomatoes,19.8,,,59.4
+2024-09-24,HT 1,Slicing Tomatoes,25.7,,,77.1
+2024-09-24,HT 1,Slicing Tomatoes,12.0,,,36.0
+2024-09-30,HT 1,Slicing Tomatoes,14.6,,,43.8
+2024-10-01,F6,Basil,2.7,11.5,64.0,172.8
+2024-10-01,HT 1,Cherry Tomatoes,7.6,1.67,4.5,34.2
+2024-10-01,HT 1 & 2,Slicing Tomatoes,109.8,1.16,3.0,329.4
+2024-10-02,F6,Okra,24.5,2.0,5.0,122.5
+2024-10-03,HT 1,Cherry Tomatoes,10.0,,,45.0
+2024-10-04,HT 1 & 2,Slicing Tomatoes,71.2,,,213.6
+2024-10-04,HT 1,Cherry Tomatoes,4.1,,,18.45
+2024-10-08,HT 1,Cherry Tomatoes,18.0,,,81.0
+2024-10-08,F6,Okra,4.3,,,21.5
+2024-10-08,HT 1,Slicing Tomatoes,10.9,,,32.7
+2024-10-14,F5,Winter Squash,16.0,1.34,2.0,32.0
+2024-10-14,F5,Pumpkins,9.2,0.75,3.0,27.6
+2024-10-15,HT 1,Cherry Tomatoes,34.8,,,156.6
+2024-10-15,HT 1,Slicing Tomatoes,9.4,,,28.2
+2024-10-22,HT 1,Cherry Tomatoes,30.0,,,135.0
+2024-10-22,HT 1,Slicing Tomatoes,19.2,,,57.6
+2024-10-22,F6,Basil,2.9,,,185.6
+2024-10-24,HT 2,Slicing Tomatoes,34.0,,,102.0
+2024-10-25,HT 2,Slicing Tomatoes,52.1,,,156.3
+2024-10-31,F6,Basil,1.3,,,83.2
+2024-10-31,HT 1,Cherry Tomatoes,10.3,,,46.35
+2024-11-07,HT 1,Slicing Tomatoes,67.6,,3.0,202.8
+2024-11-07,F8,Jalapenos,0.4,1.4,2.0,0.8
